@@ -11,8 +11,8 @@
 
 ## Tech
 
-- [ReactJS] - HTML enhanced for web apps!
-- [Javascript] - awesome web-based text editor
+- [ReactJS] - for web apps!
+- [Javascript] - awesome language programming
 
 
 ## Installation and check the result
